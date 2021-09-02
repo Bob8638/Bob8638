@@ -1,0 +1,15 @@
+body {
+  background-color: url('Traffic\ concept\ for\ web.svg');
+}
+
+#canvas {
+  width: 100%;
+  height: 800;
+  background: url('Traffic concept for web.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#mod {
+  border-radius: 100%
+}
